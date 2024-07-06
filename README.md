@@ -32,7 +32,7 @@ calc.css: Contains the CSS styles for the calculator.
 
 calc.js: Contains the JavaScript logic for the calculator functionality.
 
-#calc.html:
+## calc.html:
 
 <!DOCTYPE html>
 <html lang="en">
