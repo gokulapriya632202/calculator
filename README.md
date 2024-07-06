@@ -168,7 +168,7 @@ for (item of buttons) {
 
 ```
 
-OUTPUT:
+## OUTPUT:
 
 ![Screenshot (120)](https://github.com/gokulapriya632202/calculator/assets/119560302/a3f10627-03d6-48bc-99a3-e1afd4c1b832)
 
