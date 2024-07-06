@@ -34,6 +34,7 @@ calc.js: Contains the JavaScript logic for the calculator functionality.
 
 ## calc.html:
 
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -88,9 +89,11 @@ calc.js: Contains the JavaScript logic for the calculator functionality.
   <script src="calc.js"></script>
 </html>
 
+```
 
-calc.css:
+## calc.css:
 
+```
 .container{
     text-align: center;
     margin-top:23px
@@ -159,6 +162,7 @@ for (item of buttons) {
     })
 }
 
+```
 
 OUTPUT:
 
