@@ -134,7 +134,11 @@ h1{
     font-family: 'Courier New', Courier, monospace;
 }
 
-calc.js:
+```
+
+## calc.js:
+
+```
 let screen = document.getElementById('screen');
 buttons = document.querySelectorAll('button');
 let screenValue = '';
